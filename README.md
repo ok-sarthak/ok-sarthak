@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarthak Chakraborty @ok-sarthak
 - 👀 I’m interested in Programming, Full Stack Development, Cloud computing, Competitive Programming, Data Science, AI & ML
-- 🌱 I’m currently learning Data Science, AI & ML
+- 🌱 I’m currently learning Full Stack Development & DSA
 - 💞️ I’m looking to collaborate on Open Source Projects...
 - 📫 How to reach me ...
 - Email : csarthakcal@gmail.com
