@@ -1,9 +1,18 @@
-- 👋 Hi, I’m Sarthak Chakraborty @ok-sarthak
-- 👀 I’m interested in Programming, Full Stack Development, Cloud computing, Competitive Programming, Data Science, AI & ML
-- 🌱 I’m currently learning Full Stack Development & DSA
-- 💞️ I’m looking to collaborate on Open Source Projects...
-- 📫 How to reach me ...
-- Email : csarthakcal@gmail.com
+👋 Hi, I’m Sarthak Chakraborty — a Full-Stack Developer building scalable web and mobile applications.  
+
+I work with MERN, Next.js, React Native, and cloud-ready backend systems.  
+
+I build AI-driven features using ML pipelines, LLM APIs, and real-world integrations.  
+
+My focus is clean architecture, performance, and maintainable code.  
+
+Always learning, experimenting, and shipping practical solutions.
+
+- 💞️ I’m looking to collaborate on meaningful open-source projects and real-world products  
+- 🚀 Interested in full-stack, backend, and AI-driven system development  
+- 🧠 Currently exploring scalable architectures, system design, and DevOps fundamentals  
+- 🤝 Open to learning from experienced developers and contributing with impact  
+- 📫 Reach me via LinkedIn or email for collaboration or opportunities
 
 <!---
 ok-sarthak/ok-sarthak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
