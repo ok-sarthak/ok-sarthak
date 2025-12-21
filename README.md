@@ -1,22 +1,49 @@
+<!---
+ok-sarthak/ok-sarthak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 👋 Hi, I’m Sarthak Chakraborty — a Full-Stack Developer building scalable web and mobile applications.  
 
 I work with MERN, Next.js, React Native, and cloud-ready backend systems.  
 
-I build AI-driven features using ML pipelines, LLM APIs, and real-world integrations.  
+I build AI-driven features using ML, LLM, and real-world integrations.  
 
 My focus is clean architecture, performance, and maintainable code.  
 
 Always learning, experimenting, and shipping practical solutions.
 
-- 💞️ I’m looking to collaborate on meaningful open-source projects and real-world products  
-- 🚀 Interested in full-stack, backend, and AI-driven system development  
-- 🧠 Currently exploring scalable architectures, system design, and DevOps fundamentals  
-- 🤝 Open to learning from experienced developers and contributing with impact  
-- 📫 Reach me via LinkedIn or email for collaboration or opportunities
+- Looking to collaborate on meaningful open-source projects and real-world products  
+- Interested in full-stack, backend, and AI-driven system development  
+- Experienced in designing and consuming RESTful APIs, authentication flows, and real-time systems  
+- Hands-on with scalable backend architectures, WebSockets, and cloud deployments  
+- Currently exploring system design, scalable architectures, and DevOps fundamentals  
+- Open to learning from experienced developers and contributing with impact
 
-<!---
-ok-sarthak/ok-sarthak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
-[![An image of @oksarthak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oksarthak)](https://holopin.io/@oksarthak)
+### Core Focus Areas
+![Full Stack Development](https://img.shields.io/badge/Full%20Stack%20Development-222222?style=flat)
+![Mobile App Development](https://img.shields.io/badge/Mobile%20Application%20Development-444444?style=flat)
+![REST API & System Design](https://img.shields.io/badge/REST%20API%20Development%20%26%20System%20Design-555555?style=flat)
+![AI ML & Generative AI](https://img.shields.io/badge/AI%20ML%20%26%20Generative%20AI-666666?style=flat)
+![Cloud & DevOps](https://img.shields.io/badge/Cloud%20Computing%20%26%20DevOps-777777?style=flat)
+
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ok-sarthak&show_icons=true&hide_title=true&hide_rank=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok-sarthak&layout=compact&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ok-sarthak&label=Profile%20Views&color=grey&style=for-the-badge)
+
+---
+
+**📫 Connect with me for collaboration or opportunities:**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][linkedin]
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=vercel&logoColor=white)][portfolio]
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)][email]
+
+[linkedin]: https://linkedin.com/in/chakrabortysarthak
+[portfolio]: https://sarthakchakraborty.in
+[email]: mailto:csarthakcal@email.com
