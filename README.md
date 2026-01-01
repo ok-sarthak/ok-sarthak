@@ -31,9 +31,6 @@ Always learning, experimenting, and shipping practical solutions.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ok-sarthak&show_icons=true&hide_title=true&hide_rank=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok-sarthak&layout=compact&theme=dark)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ok-sarthak&label=Profile%20Views&color=grey&style=for-the-badge)
 
 ---
