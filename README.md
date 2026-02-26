@@ -35,6 +35,10 @@ Always learning, experimenting, and shipping practical solutions.
 
 ---
 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ok-sarthak&theme=whatsapp-dark2&border_radius=50&card_width=600&card_height=150&hide_total_contributions=true)](https://git.io/streak-stats)
+
+---
+
 **📫 Connect with me for collaboration or opportunities:**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][linkedin]
