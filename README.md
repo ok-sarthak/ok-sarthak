@@ -39,6 +39,10 @@ Always learning, experimenting, and shipping practical solutions.
 
 ---
 
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ok-sarthak&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 **📫 Connect with me for collaboration or opportunities:**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][linkedin]
