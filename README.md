@@ -35,11 +35,15 @@ Always learning, experimenting, and shipping practical solutions.
 
 ---
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ok-sarthak&theme=whatsapp-dark2&border_radius=50&card_width=600&card_height=150&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ok-sarthak&theme=whatsapp-dark2&border_radius=50&card_width=600&card_height=150&hide_total_contributions=true)](https://github.com/ok-sarthak)
 
 ---
 
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ok-sarthak&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ok-sarthak&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ok-sarthak)
+
+---
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vacantvectors?theme=dark&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap)](https://github.com/ok-sarthak)
 
 ---
 
